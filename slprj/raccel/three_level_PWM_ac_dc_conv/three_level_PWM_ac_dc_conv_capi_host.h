@@ -1,0 +1,19 @@
+#include "__cf_three_level_PWM_ac_dc_conv.h"
+#ifndef RTW_HEADER_three_level_PWM_ac_dc_conv_cap_host_h_
+#define RTW_HEADER_three_level_PWM_ac_dc_conv_cap_host_h_
+#ifdef HOST_CAPI_BUILD
+#include "rtw_capi.h"
+#include "rtw_modelmap.h"
+typedef struct { rtwCAPI_ModelMappingInfo mmi ; }
+three_level_PWM_ac_dc_conv_host_DataMapInfo_T ;
+#ifdef __cplusplus
+extern "C" {
+#endif
+void three_level_PWM_ac_dc_conv_host_InitializeDataMapInfo (
+three_level_PWM_ac_dc_conv_host_DataMapInfo_T * dataMap , const char * path )
+;
+#ifdef __cplusplus
+}
+#endif
+#endif
+#endif

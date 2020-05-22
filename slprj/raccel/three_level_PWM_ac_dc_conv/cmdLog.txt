@@ -1,0 +1,8 @@
+The argument '-tgtconn_server_info_file' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument 'C:\Users\SPS VISION\AppData\Local\Temp\tgtconnpacd4fcc9_0faf_47ae_b18e_0ad6bd616c1f.info' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument '-tgtconn_port' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument '0' passed to rtiostream_tcpip is not valid and will be ignored.
+Warning: SAXParseException fatal error at line 0 of : unable to open primary document entity 'D:\MATLAB\R2019b\toolbox\shared\sl_async_streaming\BlockRegistration.xml'
+Warning: The XML file 'D:\MATLAB\R2019b\toolbox\shared\sl_async_streaming\BlockRegistration.xml' will be ignored due to previous errors.
+Warning: Solver is encountering difficulty in simulating model 'three_level_PWM_ac_dc_conv' at time 0.0015601715760300112 . It will continue to simulate with warnings. Check the model for errors.
+Warning: During the simulation time step from 0.0015601715760299973 to 0.001560301119131368 (step size = 1.2954310137070456e-07), found #1 masked zero crossings, i.e., signal(s) with an even number of zero crossings. The search algorithm only detected these zero crossings because of the presence of other zero crossings in this time step. Masked zero crossings are caused by one or more zero crossing signals that have an even number of zero crossings in the current time step. Masked zero crossings may not be detected in all cases.
