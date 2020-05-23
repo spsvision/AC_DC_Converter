@@ -8,7 +8,7 @@ The powergui tool in Simulink also enables a fast fourier transport and a hyster
 ![](imgs/half_bridge_FFT.png)![](imgs/half_bridge_hysteresis.png)
 
 And here are the remaining two more complex models:
-### Half-bridge
+### Full-bridge
 ![](imgs/full_bridge.PNG)
 ### Three-phase
 ![](imgs/Three-phase.PNG)
